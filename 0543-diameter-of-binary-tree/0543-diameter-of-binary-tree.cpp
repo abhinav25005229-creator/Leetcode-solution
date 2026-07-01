@@ -1,21 +1,28 @@
-
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int levels(TreeNode * root){
-        if(root==NULL)return 0;
-        return 1+max(levels(root->left) , levels(root->right));
-    }
-    void helper(TreeNode * root,int &maxDiameter ){
-        if(root==NULL)return ;
-        int dia = levels(root->left) + levels(root->right);
-        maxDiameter = max(maxDiameter, dia);
-        /// for each node i have to find dia 
-        helper(root->left,maxDiameter);
-        helper(root->right, maxDiameter);
-    }
+int diameter=0;
+int height(TreeNode * root){
+    if(root==NULL)return 0;
+    int l = height(root->left);
+    int r= height(root->right);
+    diameter= max(diameter, l+r);
+    return max(l,r)+1;
+}
     int diameterOfBinaryTree(TreeNode* root) {
-        int maxDiameter = 0;
-        helper(root , maxDiameter);
-        return maxDiameter;
+        if(root==NULL)return 0;
+        height(root);
+
+        return diameter;
     }
 };
