@@ -57,4 +57,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
