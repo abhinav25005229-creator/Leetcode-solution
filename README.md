@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0137-single-number-ii) |
