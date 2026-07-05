@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [3941-password-strength](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3941-password-strength) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0137-single-number-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -108,4 +111,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
