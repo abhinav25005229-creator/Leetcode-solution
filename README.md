@@ -31,6 +31,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
@@ -121,10 +124,12 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
