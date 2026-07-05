@@ -41,6 +41,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Sliding Window
 |  |
 | ------- |
