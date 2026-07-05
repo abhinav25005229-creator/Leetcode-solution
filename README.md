@@ -29,6 +29,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0113-path-sum-ii) |
@@ -43,6 +44,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
@@ -54,6 +56,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0113-path-sum-ii) |
@@ -118,6 +121,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Sliding Window
