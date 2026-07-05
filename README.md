@@ -39,6 +39,7 @@
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
