@@ -1,18 +1,26 @@
-
+//////method 2:
 class Solution {
 public:
-///// algorithm   ->   reverse  inorder 
-    void inorder(TreeNode *root, int& sum){
-        if(root==NULL)return;
-    //// right call first because greater value BST ke right me hi exist karta h 
-        inorder(root->right,sum);
-        sum+=root->val;
-        root->val = sum;
-        inorder(root->left,sum);
-    }
+vector<int>v;
+int idx=0;
+void inorder(TreeNode *root){
+    if(root==NULL)return;
+    inorder(root->left);
+    v.push_back(root->val);
+    inorder(root->right);
+}
+void update(TreeNode * root){
+    if(root==NULL)return;
+    update(root->left);
+    root->val=v[idx++];
+    update(root->right);
+}
     TreeNode* bstToGst(TreeNode* root) {
-       int sum=0;
-        inorder(root,sum);
-        return root;
+        inorder(root);
+        for(int i=v.size()-2;i>=0; i--){
+            v[i]=v[i]+v[i+1];
+        }
+        update(root);
+return root;
     }
 };
