@@ -20,7 +20,7 @@ TreeNode * findpred(TreeNode * root){
                 else return root->right;
              }
              //// case 3:  2 child 
-             if(root->left!=NULL || root->right!=NULL){
+             if(root->left!=NULL && root->right!=NULL){
                 TreeNode * pred =findpred(root);
                 /// imp : predeccessor has always either 0 child or 1 child
                 ///// imp : pred ka right kabhi exist nhi nhi karega so ab jise delete karna h wo left me hi hoga 
