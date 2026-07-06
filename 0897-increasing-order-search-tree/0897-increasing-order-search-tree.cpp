@@ -1,23 +1,20 @@
 class Solution {
 public:
-void inorder(TreeNode * root, vector<int> & ans){
+     TreeNode * final = new TreeNode(-1);
+        TreeNode  * dummy=final;
+void inorder(TreeNode * root){
     if(root==NULL)return;
-    inorder(root->left, ans);
-    ans.push_back(root->val);
-    inorder(root->right, ans);
+    inorder(root->left);
+    root->left=NULL;
+    dummy->right= root;
+    //////curr hamesha last node ko point kar rha h
+    dummy= root;
+    inorder(root->right);
 }
     TreeNode* increasingBST(TreeNode* root) {
-        vector<int >ans;
-        inorder(root, ans);
-        TreeNode * final = new TreeNode(ans[0]);
-        TreeNode  * dummy=final;
-        for(int i=1; i<ans.size(); i++){
-            TreeNode * node =new TreeNode (ans[i]);
-            dummy->right =node;
-            dummy=dummy->right;
 
-        }
-        return final;
+        inorder(root);
+        return final->right;
     }
     
 };
