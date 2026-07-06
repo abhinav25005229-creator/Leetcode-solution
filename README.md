@@ -45,6 +45,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -141,6 +145,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,4 +172,8 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
