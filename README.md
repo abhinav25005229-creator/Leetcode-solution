@@ -42,6 +42,7 @@
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
@@ -61,6 +62,7 @@
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -82,6 +84,7 @@
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
@@ -151,6 +154,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
