@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
