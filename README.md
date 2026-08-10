@@ -117,6 +117,7 @@
 | [0136-single-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Array
 |  |
 | ------- |
