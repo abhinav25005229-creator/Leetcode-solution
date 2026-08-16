@@ -20,6 +20,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [3941-password-strength](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3941-password-strength) |
 ## Backtracking
 |  |
@@ -184,6 +185,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -220,4 +222,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
