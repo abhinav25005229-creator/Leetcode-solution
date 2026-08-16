@@ -140,6 +140,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0575-distribute-candies) |
+| [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -201,11 +202,13 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
