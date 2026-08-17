@@ -119,6 +119,7 @@
 | [0278-first-bad-version](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Divide and Conquer
 |  |
@@ -191,6 +193,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
