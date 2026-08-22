@@ -25,6 +25,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -125,6 +126,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0191-number-of-1-bits) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0136-single-number) |
