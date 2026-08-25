@@ -13,6 +13,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0575-distribute-candies) |
+| [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -174,6 +175,7 @@
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0670-maximum-swap) |
+| [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
@@ -271,5 +273,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
