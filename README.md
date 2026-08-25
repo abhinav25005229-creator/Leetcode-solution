@@ -178,6 +178,7 @@
 | [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
