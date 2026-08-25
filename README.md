@@ -173,6 +173,7 @@
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -264,4 +265,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0207-course-schedule) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
