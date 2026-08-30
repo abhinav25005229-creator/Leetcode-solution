@@ -160,6 +160,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -240,6 +241,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Interactive
 |  |
 | ------- |
