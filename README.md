@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0657-robot-return-to-origin) |
 | [3941-password-strength](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3941-password-strength) |
 ## Backtracking
 |  |
@@ -285,4 +286,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
