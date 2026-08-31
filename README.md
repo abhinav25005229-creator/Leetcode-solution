@@ -279,4 +279,8 @@
 | ------- |
 | [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
