@@ -160,6 +160,7 @@
 | [0896-monotonic-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
@@ -247,12 +248,14 @@
 | [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1019-next-greater-node-in-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1019-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -300,6 +303,7 @@
 ## Linked List
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Simulation
 |  |
