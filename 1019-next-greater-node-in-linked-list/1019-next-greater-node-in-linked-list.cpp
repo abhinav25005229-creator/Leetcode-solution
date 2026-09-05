@@ -9,15 +9,16 @@ public:
             temp = temp->next;
         }
         int n= arr.size();
-    stack<int>st;
-    vector<int>ans(n,0);
-
-    for(int i=n-1; i>=0 ;i--){
-        while(st.size()>0 && st.top()<=arr[i])st.pop();
-        if(st.size()>0)ans[i]=st.top();
-        st.push(arr[i]);
-        
+   vector<int>ans(n,0);
+   for(int i=0; i<n; i++){
+    
+    for(int j=i+1; j<n; j++){
+        if(arr[j]>arr[i]){
+            ans[i] = arr[j];
+            break;
+        }
     }
+   }
 return ans;
 
 
