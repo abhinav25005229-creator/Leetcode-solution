@@ -16,6 +16,7 @@
 | [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3941-password-strength) |
@@ -170,6 +171,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -305,6 +307,7 @@
 | ------- |
 | [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0657-robot-return-to-origin) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
