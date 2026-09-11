@@ -163,6 +163,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0896-monotonic-array) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
