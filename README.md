@@ -128,6 +128,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -281,6 +283,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0994-rotting-oranges) |
