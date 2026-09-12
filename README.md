@@ -13,6 +13,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -29,6 +30,7 @@
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0402-remove-k-digits) |
+| [0567-permutation-in-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0657-robot-return-to-origin) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3941-password-strength](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3941-password-strength) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -247,6 +250,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
