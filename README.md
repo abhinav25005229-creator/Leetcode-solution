@@ -139,6 +139,7 @@
 | [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
@@ -150,6 +151,7 @@
 | [0137-single-number-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Array
 |  |
@@ -166,6 +168,7 @@
 | [0217-contains-duplicate](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -252,6 +255,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
@@ -345,4 +349,12 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
