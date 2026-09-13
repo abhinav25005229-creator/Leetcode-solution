@@ -137,6 +137,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
@@ -165,6 +166,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
