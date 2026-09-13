@@ -143,6 +143,7 @@
 | [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
@@ -175,6 +176,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
