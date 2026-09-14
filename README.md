@@ -161,6 +161,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0836-rectangle-overlap) |
@@ -320,6 +322,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0733-flood-fill) |
