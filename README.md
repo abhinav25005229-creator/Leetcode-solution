@@ -136,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0162-find-peak-element) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
@@ -234,6 +236,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0191-number-of-1-bits) |
