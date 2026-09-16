@@ -147,6 +147,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -184,6 +185,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0896-monotonic-array) |
