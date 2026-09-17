@@ -223,6 +223,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
