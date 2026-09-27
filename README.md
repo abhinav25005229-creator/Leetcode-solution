@@ -371,6 +371,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -384,6 +385,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Pigeonhole Principle
 |  |
