@@ -41,6 +41,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3941-password-strength) |
 ## Backtracking
 |  |
@@ -386,6 +387,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
