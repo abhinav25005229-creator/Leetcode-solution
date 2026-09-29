@@ -31,6 +31,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0402-remove-k-digits) |
@@ -285,6 +286,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
