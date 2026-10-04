@@ -10,6 +10,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -35,6 +36,7 @@
 | [0032-longest-valid-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0402-remove-k-digits) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
