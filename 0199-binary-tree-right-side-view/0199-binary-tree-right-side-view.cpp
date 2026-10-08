@@ -1,21 +1,15 @@
 
 class Solution {
 public:
-int levels(TreeNode * root){
-    if(root==NULL)return 0;
-    return 1+ max(levels(root->left), levels(root->right));
+void helper(TreeNode * root ,int level, vector<int> &ans){
+    if(root==NULL)return;
+    if(level==ans.size())ans.push_back(root->val);
+    helper(root->right, level+1, ans);
+    helper(root->left, level+1,ans);
 }
-void preorder(TreeNode * root, vector<int> &ans, int level){
-    if(root==NULL)return ;
-    ans[level] = root->val;
-    preorder(root->left, ans, level+1);
-    preorder(root->right, ans, level+1);
-}
-
     vector<int> rightSideView(TreeNode* root) {
-        int n = levels(root);
-        vector<int> ans(n,0);
-        preorder(root, ans, 0);
+        vector<int>ans;
+        helper(root, 0, ans);
         return ans;
     }
 };
