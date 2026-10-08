@@ -71,6 +71,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
@@ -99,6 +100,7 @@
 | [0210-course-schedule-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
@@ -123,6 +125,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
@@ -464,4 +467,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0204-count-primes) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
