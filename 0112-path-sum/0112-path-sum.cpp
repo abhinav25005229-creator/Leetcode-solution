@@ -1,23 +1,20 @@
 
 class Solution {
 public:
-bool helper(TreeNode * root, int target,int sum){
-    if(root==NULL)return false;
-     sum+=root->val;
+void helper(TreeNode * root,int sum,int tar, bool &ans){
+    if(root==NULL)return ;
+    sum+=root->val;
     if(root->left==NULL && root->right==NULL){
-        return sum==target;
+        if(sum==tar)ans=true;
+        return;
     }
+    helper(root->left, sum,tar,ans);
+    helper(root->right,sum,tar,ans);
 
-   
-   return helper(root->left, target,sum)|| helper(root->right,target,sum);
-
-
-    
 }
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(root==NULL)return false;
-        int sum=0;
-        return  helper(root, targetSum,sum);
-        
+        bool ans=false;
+        helper(root,0,targetSum ,ans );
+        return ans;
     }
 };
