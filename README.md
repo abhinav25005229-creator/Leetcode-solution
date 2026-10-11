@@ -226,6 +226,7 @@
 | [0704-binary-search](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -403,6 +404,7 @@
 | [0032-longest-valid-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Graph Theory
 |  |
 | ------- |
