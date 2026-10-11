@@ -267,6 +267,7 @@
 | [0007-reverse-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0670-maximum-swap) |
@@ -400,6 +401,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 ## Graph Theory
 |  |
@@ -489,4 +491,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
