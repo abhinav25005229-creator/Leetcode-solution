@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@
 | [0125-valid-palindrome](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -352,6 +354,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
