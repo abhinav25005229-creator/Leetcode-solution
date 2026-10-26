@@ -191,6 +191,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -241,6 +242,7 @@
 | [0896-monotonic-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -335,6 +338,7 @@
 | [0567-permutation-in-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
