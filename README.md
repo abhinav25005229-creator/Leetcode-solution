@@ -71,6 +71,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -135,6 +136,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -299,6 +301,7 @@
 | [0013-roman-to-integer](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0258-add-digits) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
@@ -329,6 +332,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -449,6 +453,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
