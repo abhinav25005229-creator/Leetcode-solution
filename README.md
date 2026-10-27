@@ -300,6 +300,7 @@
 | [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0258-add-digits) |
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0836-rectangle-overlap) |
@@ -487,6 +488,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
@@ -520,6 +522,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
