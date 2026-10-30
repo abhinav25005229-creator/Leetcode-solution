@@ -95,6 +95,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -127,6 +128,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -160,6 +162,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -183,6 +186,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search
@@ -343,6 +347,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
