@@ -1,11 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int>mp;
-        for(int x:nums)mp[x]++;
-        for(auto p:mp){
-            if(p.second==1)return p.first;
+        int one=0;
+        int two=0;
+        for(int x: nums){
+            one = (one^x)&~two;
+            two = (two^x)&~one;
         }
-        return -1;
+        return one;
     }
 };
