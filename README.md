@@ -274,6 +274,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -380,6 +381,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -478,6 +480,7 @@
 | [0198-house-robber](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Graph Theory
 |  |
 | ------- |
