@@ -236,6 +236,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0078-subsets) |
@@ -460,6 +461,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
@@ -488,6 +490,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0198-house-robber) |
