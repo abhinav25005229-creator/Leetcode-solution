@@ -263,6 +263,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -435,6 +436,7 @@
 | [0020-valid-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0856-score-of-parentheses) |
@@ -529,6 +531,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
