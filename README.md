@@ -221,6 +221,7 @@
 | [0078-subsets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0260-single-number-iii) |
@@ -350,6 +351,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
