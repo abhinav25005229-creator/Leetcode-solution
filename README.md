@@ -213,6 +213,7 @@
 | [0633-sum-of-square-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
@@ -277,6 +278,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -409,6 +411,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -418,6 +421,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
