@@ -285,6 +285,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -412,6 +413,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -424,6 +426,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Stack
 |  |
 | ------- |
