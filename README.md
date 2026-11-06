@@ -30,6 +30,7 @@
 | [1512-number-of-good-pairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -293,6 +294,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -439,6 +441,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Stack
 |  |
