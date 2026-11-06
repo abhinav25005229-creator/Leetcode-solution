@@ -25,6 +25,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0970-powerful-integers](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0970-powerful-integers) |
+| [1122-relative-sort-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -277,6 +278,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1019-next-greater-node-in-linked-list) |
+| [1122-relative-sort-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -421,6 +423,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1122-relative-sort-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -619,4 +622,16 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
