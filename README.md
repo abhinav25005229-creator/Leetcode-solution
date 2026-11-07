@@ -67,6 +67,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3941-password-strength) |
+| [4030-check-ascii-palindromic](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/4030-check-ascii-palindromic) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0287-find-the-duplicate-number](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
+| [4030-check-ascii-palindromic](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/4030-check-ascii-palindromic) |
 ## Array
 |  |
 | ------- |
@@ -416,6 +418,7 @@
 | [0844-backspace-string-compare](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [4030-check-ascii-palindromic](https://github.com/abhinav25005229-creator/Leetcode-solution/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
 | ------- |
